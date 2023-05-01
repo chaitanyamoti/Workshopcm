@@ -1,0 +1,2 @@
+This is Python Code
+Syntax is easy in python
