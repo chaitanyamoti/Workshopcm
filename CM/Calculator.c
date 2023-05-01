@@ -5,7 +5,7 @@
  char op;
  int a,b;
  
-printf ("+ for addition \n");
+printf ("+ for add \n");
 printf (" - for subtraction \n");
 printf (" * for multiplication \n");
 printf (" / for division \n");
